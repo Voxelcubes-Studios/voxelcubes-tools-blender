@@ -1,7 +1,7 @@
 # voxelcubes-tools for Blender
 Great for batch naming in Blender
 
-#Type 
+# Type 
 Blender addon
 
 # Current version
