@@ -22,7 +22,7 @@ Renames selected objects with number sequence.
 # How to Use
 1. In Blender, select a single or multiple objects in viewport or outliner
 2. Specify prefix or suffix names and a name for the selected meshes
-3. Specify the index(number) you would want the increment to start from. 0 is the default value
+3. Specify the index(number) you want the increment to start from. 0 is the default value
 4. Click on 'Rename' to start operation.
 
 # Website
