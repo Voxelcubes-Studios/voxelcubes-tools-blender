@@ -27,8 +27,8 @@ Renames selected objects with number sequence.
 
 # Website
 https://voxelcubes.com
-For free 3d models and game-ready assets, tutorials, games, source-codes and more
+For free 3d models, game-ready assets, tutorials, games, source-codes and more
 
 # Youtube
 https://www.youtube.com/@voxelcubesstudios
-For free 3d models and game-ready assets, tutorials and more
+For free 3d models, game-ready assets, tutorials and more
