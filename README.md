@@ -50,4 +50,3 @@ https://twitter.com/VoxelCubes
 
 # Blog
 https://medium.com/@voxelcubes.com
-
