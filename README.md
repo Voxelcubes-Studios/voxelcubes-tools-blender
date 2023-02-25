@@ -27,8 +27,24 @@ Renames selected objects with number sequence.
 
 # Website
 https://voxelcubes.com
-- For free 3d models, game-ready assets, tutorials, games, source-codes and more.
+For free 3d models, game-ready assets, tutorials, games, source-codes and more.
+
+# Our Games
+https://voxelcubes-games.com/dashboard
 
 # Youtube
 https://www.youtube.com/@voxelcubesstudios
-- For tutorials and more.
+For tutorials and more.
+
+# Artstation
+https://www.artstation.com/voxelcubes
+
+# Pinterest
+https://www.pinterest.co.uk/voxelcubes
+
+# Sketchfab
+https://sketchfab.com/voxelcubes
+
+# Blog
+https://medium.com/@voxelcubes.com
+
