@@ -6,6 +6,9 @@ Renames selected objects with number sequence.
 
 ![image](https://user-images.githubusercontent.com/109323649/221378986-b4b1fc54-00d8-4302-9639-8a6ee74a6126.png)
 
+# How to Download
+1. Click on the zip file(voxelcubes_tools.zip)
+2. Click on the [Download] button to grab the zip file.
 
 # Installation
 1. Navigate to [ Edit -> Preferences... in Blender.
