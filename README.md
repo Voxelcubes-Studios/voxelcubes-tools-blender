@@ -14,7 +14,7 @@ Renames selected objects with number sequence.
 1. Navigate to [ Edit -> Preferences... in Blender
 2. Click Install button on the popup window to locate and install zip file.
 3. Type 'voxelcubes' in the input search box on the window popup to see addon
-4. Check the box next to the addon to install.
+4. Check the box next to the addon to install and close popup.
 5. Press 'N' key on your keyboard to open panels in Blender
 6. Locate and click 'Voxelcubes' on the side panel to open addon
 7. Rename your objects. :) 
