@@ -2,7 +2,7 @@
 Voxelcubes-Tools is a Free addon for Blender 3D. Currently, it only has one operation which is a tool for batch naming of objects.
 
 # Description
-Renames selected objects with number sequence.  
+Renames selected objects with number sequence.    
 ![image](https://user-images.githubusercontent.com/109323649/221378986-b4b1fc54-00d8-4302-9639-8a6ee74a6126.png)
 
 
