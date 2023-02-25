@@ -8,7 +8,7 @@ Renames selected objects with number sequence.
 
 # How to Download
 1. Click on the zip file(voxelcubes_tools.zip)
-2. Click on the [Download] button to grab the zip file.
+2. Click on the [Download] button to download the file.
 
 # Installation
 1. Navigate to [ Edit -> Preferences... in Blender.
