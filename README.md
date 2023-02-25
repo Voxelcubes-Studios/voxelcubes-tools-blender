@@ -1,4 +1,4 @@
-# voxelcubes-tools for Blender
+# voxelcubes-tools
 Great for batch naming in Blender
 
 # Type 
